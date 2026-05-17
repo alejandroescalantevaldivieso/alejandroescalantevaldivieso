@@ -91,7 +91,7 @@ Estudiante de Ingeniería de Sistemas • Desarrollo de Software • Soporte Té
 # 🔥 Actividad
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=alejandroescalantevaldivieso&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
