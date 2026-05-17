@@ -1,107 +1,113 @@
 <h1 align="center">⚡ Alejandro Escalante Valdivieso ⚡</h1>
 
 <h3 align="center">
-Estudiante de Ingeniería de Sistemas • Desarrollo de Software • Soporte Técnico
+Ingeniería de Sistemas • Desarrollo Backend • Bases de Datos • Soporte TI
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Laravel+%7C+Java+%7C+MySQL+%7C+PHP;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Laravel+%7C+PHP+%7C+MySQL;Ingenier%C3%ADa+de+Sistemas;Desarrollo+de+Software+y+Bases+de+Datos;Resoluci%C3%B3n+de+Problemas+Tecnol%C3%B3gicos" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F7FF&height=220&section=header&text=SYSTEMS%20ENGINEERING&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
-# 💻 Sobre mí
+# 🧠 Perfil Profesional
 
-🎓 Estudiante de Ingeniería de Sistemas  
-🛠️ Experiencia en soporte técnico y desarrollo de sistemas de gestión  
-🚀 Interesado en desarrollo web, bases de datos y arquitectura de software  
-📍 Perú  
-📚 Aprendizaje constante en tecnologías modernas  
+💻 Estudiante de Ingeniería de Sistemas enfocado en desarrollo backend, bases de datos y soluciones empresariales.
+
+🚀 Experiencia desarrollando sistemas de gestión, puntos de venta y aplicaciones administrativas utilizando arquitecturas organizadas y bases de datos relacionales.
+
+🛠️ Con conocimientos en:
+- Desarrollo web
+- Arquitectura MVC
+- Programación Orientada a Objetos
+- SQL y modelado relacional
+- Soporte técnico y mantenimiento de equipos
+
+📈 Interesado en crecimiento profesional dentro del desarrollo de software, backend y tecnologías empresariales.
 
 ---
 
 # ⚙️ Tecnologías y Herramientas
 
-## 🚀 Lenguajes
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,php,js,html,css,kotlin,cs" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,java,js,html,css,mysql,git,github,vscode" />
 </p>
 
-## 🗄️ Bases de Datos
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap,kotlin,androidstudio" />
 </p>
-
-## 🧩 Frameworks y Arquitectura
-
-<p>
-<img src="https://skillicons.dev/icons?i=bootstrap,laravel" />
-</p>
-
-- MVC
-- Programación Orientada a Objetos
-- Responsive Design
-- Store Procedures
-- Triggers & Views
 
 ---
 
-# 🖥️ Proyectos
+# 🧩 Habilidades Técnicas
+
+## 🖥️ Desarrollo de Software
+- Laravel
+- PHP
+- Java
+- JavaScript
+- Arquitectura MVC
+- Programación POO
+- Bootstrap 5
+- Responsive Design
+
+---
+
+## 🗄️ Bases de Datos
+- MySQL
+- SQL Server
+- Modelado relacional
+- Consultas SQL
+- Store Procedures
+- Triggers
+- Views
+
+---
+
+## 🌐 Redes y Soporte Técnico
+- Configuración de routers
+- Extensión de redes WiFi
+- Soporte técnico preventivo y correctivo
+- Diagnóstico de hardware y software
+- Atención a usuarios
+
+---
+
+# 🚀 Proyectos Destacados
 
 ## 🍗 Sistema de Gestión para Pollería
-📌 Control de ventas, inventario y pedidos  
-🛠️ Java • MySQL • NetBeans  
+Sistema para administración de ventas, pedidos e inventario.
+
+🛠️ Tecnologías:
+`Java` `MySQL` `NetBeans`
 
 ---
 
 ## 🏋️ Sistema de Administración para Gimnasio
-📌 Gestión de clientes y empleados con reportes  
-🛠️ Visual Basic .NET • SQL Server  
+Gestión de clientes, empleados y reportes administrativos.
+
+🛠️ Tecnologías:
+`Visual Basic .NET` `SQL Server`
 
 ---
 
-## 🛒 Sistema Punto de Venta para Tienda
-📌 Gestión de ventas e inventario  
-🛠️ PHP • JavaScript • Bootstrap • MVC • SQL Server  
+## 🛒 Sistema Punto de Venta
+Aplicación para control de ventas e inventario con arquitectura MVC.
+
+🛠️ Tecnologías:
+`PHP` `JavaScript` `Bootstrap` `SQL Server`
 
 ---
 
-# 🌐 Redes y Soporte Técnico
+# 📚 Actualmente Aprendiendo
 
-- Configuración de routers
-- Implementación de Access Points
-- Soporte técnico preventivo y correctivo
-- Diagnóstico de hardware y software
-- Atención a usuarios finales
-
----
-
-# 📊 Estadísticas GitHub
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 Actividad
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📫 Contacto
-
-📧 Alejandro16valdivieso@gmail.com
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
-</p>
+```txt
+✓ Laravel Avanzado
+✓ Git y GitHub
+✓ APIs REST
+✓ Arquitectura Backend
+✓ Buenas prácticas de desarrollo
